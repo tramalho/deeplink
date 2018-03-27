@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DeepLink</string>
+    <string name="second_path_prefix">/sec_act</string>
 </resources>
